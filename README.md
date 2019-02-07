@@ -1,7 +1,7 @@
 # CSC115
 Fundamentals of Programming: II at the University of Victoria.<br/>
 This course introduces abstract data types and recursion, object oriented programming, and efficiency of algorithms and data structures.
-The topics include:
+Topics include:
 * A review of programming in Java
 * The design, definition and manipulation of simple data objects
 * The implementation of lists, including both sequential (linked) and random access (array) variations
